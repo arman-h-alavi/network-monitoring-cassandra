@@ -2,7 +2,9 @@
 
 A Python-based time-series data pipeline that generates synthetic network infrastructure metrics, stores them in Apache Cassandra, and retrieves measurements through a command-line query tool.
 
-## Overvie50 network resources:
+## Overview
+
+The project simulates monitoring data for 50 network resources:
 
 | Resource type | Count |
 |---|---:|
